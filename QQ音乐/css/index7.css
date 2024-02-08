@@ -1,0 +1,173 @@
+.yi{
+    display: flex;
+    justify-content: center;
+}
+.song1{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 12vw;
+    margin-top: -10px;
+}
+.song1 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song1:hover i{
+    opacity: 1;
+    cursor: pointer;
+}
+.song1:hover img{
+    transform: scale(1.1); 
+}
+
+
+
+
+.song2{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 12vw;
+    margin-top: -10px;
+}
+.song2 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song2:hover img{
+    transform: scale(1.1); 
+}
+
+
+.song3{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 12vw;
+    margin-top: -10px;  
+}
+.song3 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song3:hover img{
+    transform: scale(1.1); 
+}
+
+
+.er{
+    display: flex;
+    justify-content: center
+}
+.song4{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 12vw;
+    margin-top: -11.4vw;
+}
+.song4 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song4:hover img{
+    transform: scale(1.1); 
+}
+
+
+
+.song5{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 12vw;
+    margin-top: -11.4vw;
+}
+.song5 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song5:hover img{
+    transform: scale(1.1); 
+}
+
+
+.song6{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 12vw;
+    margin-top: -11.4vw;
+}
+.song6 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song6:hover img{
+    transform: scale(1.1); 
+}
+
+
+.san{
+    display: flex;
+    justify-content: center;
+}
+.song7{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    z-index: 100;
+    margin: 12vw;
+    margin-top: -11.4vw;
+}
+.song7 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song7:hover img{
+    transform: scale(1.1); 
+}
+
+
+.song8{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    z-index: 100;
+    margin: 12vw;
+    margin-top: -11.4vw;
+}
+.song8 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song8:hover img{
+    transform: scale(1.1); 
+}
+
+
+.song9{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    z-index: 100;
+    margin: 12vw;
+    margin-top: -11.4vw;
+}
+.song9 img{
+    width: 100px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.song9:hover img{
+    transform: scale(1.1); 
+}

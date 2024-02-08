@@ -1,0 +1,83 @@
+.yinyuefenmian{
+    display: flex;
+    justify-content: center;
+}
+.music1{
+    width: 230px;
+    height: 230px;
+    overflow: hidden;
+    margin: 10px;
+}
+.music1 img{
+    width: 230px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.music1:hover img{
+    transform: scale(1.1); 
+}
+
+.music2{
+    height: 230px;
+    overflow: hidden;
+    margin: 10px;
+}
+.music2 img{
+    width: 230px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.music2:hover img{
+    transform: scale(1.1); 
+}
+
+.music3{
+    width: 230px;
+    height: 230px;
+    overflow: hidden;
+    margin: 10px;
+}
+.music3 img{
+    width: 230px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.music3:hover img{
+    transform: scale(1.1); 
+}
+
+
+.music4{
+    width: 230px;
+    height: 230px;
+    overflow: hidden;
+    margin: 10px;
+}
+.music4 img{
+    width: 230px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.music4:hover img{
+    transform: scale(1.1); 
+}
+.music4:hover .mask{
+    opacity: 0.1;
+    cursor: pointer;
+}
+
+
+.music5{
+    width: 230px;
+    height: 230px;
+    overflow: hidden;
+    margin: 10px;
+}
+.music5 img{
+    width: 230px;
+    transition-property: all;
+    transition-duration: 0.8s; 
+}
+.music5:hover img{
+    transform: scale(1.1); 
+}

@@ -1,0 +1,83 @@
+.wenan1{
+    position: relative;
+    left: 14vw;
+    top: 0.1vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenan1>span:nth-of-type(1):hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenan1>span:nth-of-type(2){
+    color: rgb(153, 153, 153);
+}
+
+
+.wenan2{
+    position: absolute;
+    left: 28.6vw;
+    top: 34.05vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenan2>span:nth-of-type(1):hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenan2>span:nth-of-type(2){
+    color: rgb(153, 153, 153);
+}
+
+
+.wenan3{
+    position: absolute;
+    left: 43.2vw;
+    top: 34.05vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenan3>span:nth-of-type(1):hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenan3>span:nth-of-type(2){
+    color: rgb(153, 153, 153);
+}
+
+
+.wenan4{
+    position: absolute;
+    left: 57.8vw;
+    top: 34.05vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenan4>span:nth-of-type(1):hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenan4>span:nth-of-type(2){
+    color: rgb(153, 153, 153);
+}
+
+
+.wenan5{
+    position: absolute;
+    left: 72.4vw;
+    top: 34.05vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenan5>span:nth-of-type(1):hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenan5>span:nth-of-type(2){
+    color: rgb(153, 153, 153);
+}

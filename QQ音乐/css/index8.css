@@ -1,0 +1,143 @@
+.wenzi1{
+    position: relative;
+    left: 23vw;
+    top: -29vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi1>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi1>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi2{
+    position: absolute;
+    left: 53vw;
+    top: 11.2vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi2>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi2>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi3{
+    position: absolute;
+    left: 83vw;
+    top: 11.2vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi3>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi3>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi4{
+    position: relative;
+    left: 23vw;
+    top: -25vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi4>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi4>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi5{
+    position: absolute;
+    left: 53vw;
+    top: 17.5vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi5>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi5>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi6{
+    position: absolute;
+    left: 83vw;
+    top: 17.3vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi6>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi6>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi7{
+    position: relative;
+    left: 23vw;
+    top: -20.9vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi7>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi7>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi8{
+    position: absolute;
+    left: 53vw;
+    top: 23.6vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi8>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi8>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
+
+.wenzi9{
+    position: absolute;
+    left: 83vw;
+    top: 23.6vw;
+    font-size: 14.5px;
+    font-weight: 400;
+    z-index: 100;
+}
+.wenzi9>span:hover{
+    color: rgb(51, 206, 131);
+    cursor: pointer;
+}
+.wenzi9>span:not(:nth-of-type(1)){
+    color: rgb(153, 153, 153);
+}
